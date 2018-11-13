@@ -8,7 +8,11 @@ This document has useful information and links for the workshop.
 
 **Labs**
 
-Prerequisites. [Links](prereqs.md)
+Prerequisites. [Link](prereqs.md)
+
+Exploring your cluster. [Link](https://kube7days.staging.do.citopro.com/01-getting-started-with-kubernetes/01-04.html)
+
+Deploying an application. [Link](https://kube7days.staging.do.citopro.com/01-getting-started-with-kubernetes/01-05.html)
 
 How to build and test a simple application. [Link](first-app.md)
 
@@ -25,7 +29,7 @@ Create a Jenkins Pipeline. [Link](https://kube7days.staging.do.citopro.com/07-ci
 
 Kubernetes in 7 Days documentation. [Link](http://kube7days.staging.do.citopro.com)
 
-Repo to fork. [Link](https://github.com/desdrury/kubernetes-in-7-days-video)
+Repo to fork. [Link](https://github.com/desdrury/momenton-kube-workshop)
 
 
 **Helm**

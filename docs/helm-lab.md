@@ -37,16 +37,16 @@ Enable the `ingress` and update the `hosts` field.  No example is provided as it
 Test deploy the Helm Chart to see what resources will be created in the cluster.
 
 ```console
-helm upgrade --install <name>-first-app \
-  --namespace <name> \
+helm upgrade --install first-app \
+  --namespace default \
   ~/tmp/first-app --debug --dry-run
 ```
 
 Now deploy the Helm Chart.
 
 ```console
-helm upgrade --install <name>-first-app \
-  --namespace <name> \
+helm upgrade --install first-app \
+  --namespace default \
   ~/tmp/first-app
 ```
 

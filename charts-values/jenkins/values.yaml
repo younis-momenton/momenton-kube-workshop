@@ -4,9 +4,9 @@ rbac:
 
 Master:
   Image:    jenkins/jenkins
-  ImageTag: 2.136
+  ImageTag: "2.150"
   ServiceType: ClusterIP
-  HostName:    jenkins.cicd.do.citopro.com
+  HostName:    jenkins.192.168.99.101.nip.io
 
   Ingress:
     Annotations:

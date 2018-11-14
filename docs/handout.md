@@ -6,6 +6,11 @@ This document has useful information and links for the workshop.
 
 ---
 
+**Slides**
+
+Kubernetes Training [Link](https://www.slideshare.net/DesDrury/kubernetes-training)
+
+
 **Labs**
 
 Prerequisites. [Link](prereqs.md)

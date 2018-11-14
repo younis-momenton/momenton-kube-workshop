@@ -27,7 +27,7 @@ helm upgrade --install jenkins \
 
 Get the `admin` password with the following command.
 
-```
+```console
 printf $(kubectl get secret --namespace jobs jenkins -o jsonpath="{.data.jenkins-admin-password}" | base64 --decode);echo
 ```
 
